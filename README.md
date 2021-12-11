@@ -1,6 +1,6 @@
 # Nipa
 
-## 정보통신산업진흥원 진행 온라인 AI 실무 교육
+## 정보통신산업진흥원 진행 온라인 AI 실무 프로젝트
 
 ![11](https://user-images.githubusercontent.com/86146128/144736324-32b991bf-8beb-40de-8dea-1b0fad91d4af.png)
 
